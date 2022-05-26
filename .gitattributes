@@ -89,7 +89,7 @@
 *.ini linguist-documentation=false
 *.ini linguist-language=INI
 # Assembly (x86)
-*.asm linguist-detectable=false
+*.asm linguist-detectable=true
 *.asm linguist-documentation=false
 *.asm linguist-language=Assembly
 # Roff
@@ -122,6 +122,6 @@
 # End of linguist script
 # File info
 # File type: Gitattributes file (*.gitattributes)
-# File version: 4 (2022, Wednesday, May 25th at 6:00 pm PST)
+# File version: 5 (2022, Wednesday, May 25th at 6:02 pm PST)
 # Line count (including blank lines and compiler line): 128
 # End of script
